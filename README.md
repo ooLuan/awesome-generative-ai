@@ -26,6 +26,10 @@
 2. [ControlNet v1.1][Structured Guidance for Stable Diffusion](https://arxiv.org/abs/2302.05543), `CVPR 2024`. [[Code](https://github.com/lllyasviel/ControlNet)]  *Adds structural conditioning (edge, pose, depth) to pre-trained diffusion models without affecting performance.*
 3. [T2I-Adapter][Adapter Modules for Controllable Text-to-Image Synthesis](https://arxiv.org/abs/2302.08453), `CVPR 2024`. [[Code](https://github.com/TencentARC/T2I-Adapter)]   *Injects visual condition controls into frozen diffusion models using small plug-in modules.*
 4. [StyleDiffusion][Text-Driven Image Generation with Style Control](https://arxiv.org/abs/2312.01234), `arXiv 2024`. [[Code](https://github.com/MatthewLWang/StyleDiffusion)]   *Combines diffusion with textual prompts and style embeddings for controlled generation.*
+5. [Sana][Scalable Personalization for Text-to-Image Generation](https://arxiv.org/abs/2404.06016), `arXiv 2024`. [[Code](https://github.com/NVlabs/Sana)]*A scalable personalization method for diffusion-based text-to-image models. Supports multi-subject generation and higher fidelity.*
+6. [IMAG-Dressing][IMAG-Dressing: Unveiling the Potential of Language-Driven Virtual Try-on](https://arxiv.org/abs/2404.03094), `arXiv 2024`. [[Code](https://github.com/muzishen/IMAGDressing)]  *Language-guided virtual try-on system that manipulates clothing appearance based on textual descriptions using diffusion-based architecture.*
+7. [Infinity][Infinity: Towards Infinite Resolution Generation with Diffusion Models](https://arxiv.org/abs/2404.08758), `arXiv 2024`. [[Code](https://github.com/FoundationVision/Infinity)]  *A diffusion model capable of generating ultra-high-resolution images by leveraging patch-wise autoregressive modeling.*
+
 ---
 ### 2023
 1. [GALIP][Generative Adversarial CLIPs for Text-to-Image Synthesis](https://arxiv.org/abs/2301.12959), `arXiv 2023`. [[Code](https://github.com/tobran/GALIP)] *Integrates CLIP in both generator and discriminator for efficient and controllable text-to-image synthesis.*
