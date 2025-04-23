@@ -228,7 +228,7 @@
 </details>
 
 <details>
-<summary> Awesome Generative AI & LLM APIs (click to expand)</summary>
+<summary>✨ Awesome Generative AI & LLM APIs (click to expand)</summary>
 
 ## GenAI APIs
 
