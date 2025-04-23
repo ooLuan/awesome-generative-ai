@@ -609,3 +609,4 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 </details>
 
+Disclaimer: This repository is a curated list of generative AI and LLM-related projects. All rights and credits belong to the respective authors and organizations. If you are an author and would like to suggest edits or removal, please open an issue.
