@@ -31,6 +31,7 @@
 1. [GALIP][Generative Adversarial CLIPs for Text-to-Image Synthesis](https://arxiv.org/abs/2301.12959), `arXiv 2023`. [[Code](https://github.com/tobran/GALIP)] *Integrates CLIP in both generator and discriminator for efficient and controllable text-to-image synthesis.*
 2. [ELITE][Encoding Visual Concepts into Textual Embeddings](https://arxiv.org/abs/2302.13848), `arXiv 2023`. [[Code](https://github.com/csyxwei/ELITE)]  *Maps visual concepts into language embeddings to enable customized image generation.*
 3. [Rich-Text-to-Image][Rich Text-to-Image Generation](https://arxiv.org/abs/2307.XXXX), `ICCV 2023`. [[Code](https://github.com/songweige/rich-text-to-image)]  *Enhances structure and context preservation using enriched textual prompts.*
+4. [custom-diffusion][Multi-Concept Customization of Text-to-Image Diffusion](https://arxiv.org/abs/2212.04488), [[Code](https://github.com/adobe-research/custom-diffusion)] *Multi-Concept Customization of Text-to-Image Diffusion*
 ---
 ### 2022
 1. [DreamBooth][Subject-Driven Text-to-Image Generation](https://arxiv.org/abs/2208.12242), `arXiv 2022`. [[Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]  *Fine-tunes diffusion models to generate images of specific subjects with a few samples.*
