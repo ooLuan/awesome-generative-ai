@@ -193,10 +193,9 @@
 | FalaBrasil-LaPSMail | Brazilian-Portuguese | 1 hour | 25 speakers | <https://drive.google.com/uc?export=download&confirm=PecV&id=1B_Vq8MDSE4fBQefVxqCGSl-EcKAcjJLb> | ["Bases de áudio transcrito e bases de texto normalizadas (sem pontuação, com números escritos por extenso, etc.) disponibilizadas de forma gratuita* pelo Grupo FalaBrasil. [disponibilizadas de forma gratuita*] / Portanto, apenas as bases livres estão sendo disponibilizadas."](http://labvis.ufpa.br/falabrasil/downloads/) |
 | FalaBrasil-LaPS Benchmark | Brazilian-Portuguese | 1 hour | 1 speaker | <https://drive.google.com/uc?export=download&confirm=XFfF&id=1nZ8L9nJTt4blFC0RGT9Y7XRu02aAvDIo> | ["Bases de áudio transcrito e bases de texto normalizadas (sem pontuação, com números escritos por extenso, etc.) disponibilizadas de forma gratuita* pelo Grupo FalaBrasil. [disponibilizadas de forma gratuita*] / Portanto, apenas as bases livres estão sendo disponibilizadas."](http://labvis.ufpa.br/falabrasil/downloads/) |
 </details>
----
 <details>
 <summary>🎙️ Speech-to-Text (STT) based models (click to expand)</summary>
-### 2023
+**🗓️ 2023**
 1. [whisper.cpp][High-Performance C++ Port of OpenAI Whisper](https://github.com/ggerganov/whisper.cpp), `GitHub 2023`. [[Code](https://github.com/ggerganov/whisper.cpp)]  *Port of OpenAI's Whisper model in pure C/C++ using GGML for efficient CPU/GPU inference — runs on Mac, Windows, Linux, and mobile devices.*
 2. [DeepSpeech][An Open-Source Speech-to-Text Engine](https://github.com/mozilla/DeepSpeech), `GitHub 2023`. [[Code](https://github.com/mozilla/DeepSpeech)]  *TensorFlow-based speech recognition engine capable of running in real-time on low-resource devices.*
 3. [Leon][Your Open-Source Personal Assistant](https://github.com/leon-ai/leon), `GitHub 2023`. [[Code](https://github.com/leon-ai/leon)]   *Node.js & Python-powered open-source voice assistant you can run on your own server.*
@@ -214,10 +213,8 @@
 15. [SenseVoice][Multilingual Speech Understanding](https://github.com/FunAudioLLM/SenseVoice), `GitHub 2023`. [[Code](https://github.com/FunAudioLLM/SenseVoice)]  *Foundation model for ASR, emotion detection, language ID, and event classification.*
 16. [silero-models][Production-Ready STT/TTS Models](https://github.com/snakers4/silero-models), `GitHub 2023`. [[Code](https://github.com/snakers4/silero-models)]   *Accurate and fast models for mobile and server deployment — multilingual support.*
 17. [whisper-jax][Whisper on JAX for Fast ASR](https://github.com/sanchit-gandhi/whisper-jax), `GitHub 2023`. [[Code](https://github.com/sanchit-gandhi/whisper-jax)]  *Fast Whisper inference with batching and TPU support — great for large-scale pipelines.*
-18. [FunClip][Multimodal Speech-Text Understanding](https://github.com/modelscope/FunClip), `GitHub 2023`. [[Code](https://github.com/modelscope/FunClip)]  
-   *Multimodal model trained for audio, vision, and text fusion — designed for universal understanding.*
+18. [FunClip][Multimodal Speech-Text Understanding](https://github.com/modelscope/FunClip), `GitHub 2023`. [[Code](https://github.com/modelscope/FunClip)]  *Multimodal model trained for audio, vision, and text fusion — designed for universal understanding.*
 </details>
----
 </details>
 
 <details>
