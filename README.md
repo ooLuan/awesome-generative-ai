@@ -2,8 +2,6 @@
 
 <details>
 <summary>🎙️ Speech-to-Text (STT) (click to expand)</summary>
----
-
 ### 🗂️ Dataset for STT
 <details>
 <summary>🎙️ Dataset for STT (click to expand)</summary>
