@@ -2,9 +2,9 @@
 
 <details>
 <summary>🎙️ Speech-to-Text (STT) (click to expand)</summary>
-### 🗂️ Dataset for STT
 <details>
 <summary>🎙️ Dataset for STT (click to expand)</summary>
+## 🗂️ Dataset for STT
 ## 📜 [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 | CORPUS | LANGUAGES | # HOURS | # SPEAKERS | DOWNLOAD | LICENSE |
