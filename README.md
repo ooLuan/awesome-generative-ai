@@ -215,7 +215,7 @@
 17. [whisper-jax][Whisper on JAX for Fast ASR](https://github.com/sanchit-gandhi/whisper-jax), `GitHub 2023`. [[Code](https://github.com/sanchit-gandhi/whisper-jax)]  *Fast Whisper inference with batching and TPU support — great for large-scale pipelines.*
 18. [FunClip][Multimodal Speech-Text Understanding](https://github.com/modelscope/FunClip), `GitHub 2023`. [[Code](https://github.com/modelscope/FunClip)]  
    *Multimodal model trained for audio, vision, and text fusion — designed for universal understanding.*
-
+</details>
 </details>
 
 <details>
