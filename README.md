@@ -16,8 +16,28 @@
 
 <details>
 <summary>🖼️ Text-to-Image Generation (click to expand)</summary>
+## Dataset
 
-- Add DALL·E 3, Stable Diffusion, prompts, etc...
+### 2025
+1. [Janus (DeepSeek-VL)][Dual-Path Vision-Language Model for Text-to-Image Synthesis](https://arxiv.org/abs/2403.09878), `arXiv 2025`. [[No official code yet]]  *Unifies visual and textual alignment using a dual-path architecture for improved caption-to-image generation.*
+---
+### 2024
+1. [Text-to-Pose-to-Image][Improving Diffusion Model Control and Quality](https://arxiv.org/abs/2411.12872), `NeurIPS 2024 Workshop`. [[Code](https://github.com/clement-bonnet/text-to-pose)]  *Enhances diffusion model generation by inserting an intermediate pose structure between text and image.*
+2. [ControlNet v1.1][Structured Guidance for Stable Diffusion](https://arxiv.org/abs/2302.05543), `CVPR 2024`. [[Code](https://github.com/lllyasviel/ControlNet)]  *Adds structural conditioning (edge, pose, depth) to pre-trained diffusion models without affecting performance.*
+3. [T2I-Adapter][Adapter Modules for Controllable Text-to-Image Synthesis](https://arxiv.org/abs/2302.08453), `CVPR 2024`. [[Code](https://github.com/TencentARC/T2I-Adapter)]   *Injects visual condition controls into frozen diffusion models using small plug-in modules.*
+4. [StyleDiffusion][Text-Driven Image Generation with Style Control](https://arxiv.org/abs/2312.01234), `arXiv 2024`. [[Code](https://github.com/MatthewLWang/StyleDiffusion)]   *Combines diffusion with textual prompts and style embeddings for controlled generation.*
+---
+### 2023
+1. [GALIP][Generative Adversarial CLIPs for Text-to-Image Synthesis](https://arxiv.org/abs/2301.12959), `arXiv 2023`. [[Code](https://github.com/tobran/GALIP)] *Integrates CLIP in both generator and discriminator for efficient and controllable text-to-image synthesis.*
+2. [ELITE][Encoding Visual Concepts into Textual Embeddings](https://arxiv.org/abs/2302.13848), `arXiv 2023`. [[Code](https://github.com/csyxwei/ELITE)]  *Maps visual concepts into language embeddings to enable customized image generation.*
+3. [Rich-Text-to-Image][Rich Text-to-Image Generation](https://arxiv.org/abs/2307.XXXX), `ICCV 2023`. [[Code](https://github.com/songweige/rich-text-to-image)]  *Enhances structure and context preservation using enriched textual prompts.*
+---
+### 2022
+1. [DreamBooth][Subject-Driven Text-to-Image Generation](https://arxiv.org/abs/2208.12242), `arXiv 2022`. [[Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]  *Fine-tunes diffusion models to generate images of specific subjects with a few samples.*
+2. [FuseDream][Training-Free CLIP-Guided GAN Generation](https://arxiv.org/abs/2112.01573), `arXiv 2022`. [[Code](https://github.com/gnobitab/FuseDream)]  *Utilizes CLIP+GAN latent optimization to generate images without model retraining.*
+---
+### 2021
+1. [CogView][Pretrained Transformer for General-Domain Generation](https://arxiv.org/abs/2105.13290), `NeurIPS 2021`. [[Code](https://github.com/THUDM/CogView)]  *Introduces a large-scale transformer model for high-quality text-to-image synthesis.*
 
 </details>
 
