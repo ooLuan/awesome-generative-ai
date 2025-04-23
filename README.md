@@ -193,6 +193,8 @@
 | FalaBrasil-LaPSMail | Brazilian-Portuguese | 1 hour | 25 speakers | <https://drive.google.com/uc?export=download&confirm=PecV&id=1B_Vq8MDSE4fBQefVxqCGSl-EcKAcjJLb> | ["Bases de áudio transcrito e bases de texto normalizadas (sem pontuação, com números escritos por extenso, etc.) disponibilizadas de forma gratuita* pelo Grupo FalaBrasil. [disponibilizadas de forma gratuita*] / Portanto, apenas as bases livres estão sendo disponibilizadas."](http://labvis.ufpa.br/falabrasil/downloads/) |
 | FalaBrasil-LaPS Benchmark | Brazilian-Portuguese | 1 hour | 1 speaker | <https://drive.google.com/uc?export=download&confirm=XFfF&id=1nZ8L9nJTt4blFC0RGT9Y7XRu02aAvDIo> | ["Bases de áudio transcrito e bases de texto normalizadas (sem pontuação, com números escritos por extenso, etc.) disponibilizadas de forma gratuita* pelo Grupo FalaBrasil. [disponibilizadas de forma gratuita*] / Portanto, apenas as bases livres estão sendo disponibilizadas."](http://labvis.ufpa.br/falabrasil/downloads/) |
 </details>
+<details>
+<summary>🎙️ Speech-to-Text (STT) based models (click to expand)</summary>
 ### 2023
 1. [whisper.cpp][High-Performance C++ Port of OpenAI Whisper](https://github.com/ggerganov/whisper.cpp), `GitHub 2023`. [[Code](https://github.com/ggerganov/whisper.cpp)]  *Port of OpenAI's Whisper model in pure C/C++ using GGML for efficient CPU/GPU inference — runs on Mac, Windows, Linux, and mobile devices.*
 2. [DeepSpeech][An Open-Source Speech-to-Text Engine](https://github.com/mozilla/DeepSpeech), `GitHub 2023`. [[Code](https://github.com/mozilla/DeepSpeech)]  *TensorFlow-based speech recognition engine capable of running in real-time on low-resource devices.*
