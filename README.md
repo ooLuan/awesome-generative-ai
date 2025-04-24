@@ -17,6 +17,7 @@ Welcome to the **Awesome Generative AI** repository — a structured and profess
 
 ---
 
+
 <details>
 <summary>🎙️ Speech-to-Text (STT) (click to expand)</summary>
 <details>
@@ -626,4 +627,8 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 </details>
 
-Disclaimer: This repository is a curated list of generative AI and LLM-related projects. All rights and credits belong to the respective authors and organizations. If you are an author and would like to suggest edits or removal, please open an issue.
+## ✅ Contribution:
+Found something worth sharing? Feel free to [open an issue](https://github.com/Mrkomiljon/awesome-generative-ai/issues) or submit a pull request.
+
+## Disclaimer: 
+This repository is a curated list of generative AI and LLM-related projects. All rights and credits belong to the respective authors and organizations. If you are an author and would like to suggest edits or removal, please open an issue.
