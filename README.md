@@ -17,7 +17,7 @@ Welcome to the **Awesome Generative AI** repository — a structured and profess
 
 ---
 
-
+## More detailed
 <details>
 <summary>🎙️ Speech-to-Text (STT) (click to expand)</summary>
 <details>
