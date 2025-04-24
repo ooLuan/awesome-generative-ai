@@ -1,4 +1,21 @@
-# 🔥 Awesome Generative AI Resources
+## 🔥 Awesome Generative AI Resources
+
+Welcome to the **Awesome Generative AI** repository — a structured and professional hub for state-of-the-art resources across Speech, Text, Image, and Multimodal AI. This page provides an overview and organized links to detailed pages.
+
+---
+
+### 📚 Main Categories
+
+- [🎙️ Speech-to-Text (STT) Datasets](./stt-datasets.md)
+- [🧠 Speech-to-Text (STT) Models](./stt-models.md)
+- [🔊 Text-to-Speech (TTS)](./tts.md)
+- [💬 Emotion Recognition](./emotion-recognition.md)
+- [🧠 Voice Cloning](./voice-cloning.md)
+- [🗣️ Talking Head Generation](./talking-head.md)
+- [🖼️ Text-to-Image Generation](./text-to-image.md)
+- [📈 Generative AI & LLM APIs](./genai-apis.md)
+
+---
 
 <details>
 <summary>🎙️ Speech-to-Text (STT) (click to expand)</summary>
