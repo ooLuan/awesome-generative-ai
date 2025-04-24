@@ -19,7 +19,7 @@ Welcome to the **Awesome Generative AI** repository — a structured and profess
 ### 🤖 Transformers & Foundation Models
 
 - [📈 Widely-used transformer models](./transformers.md)
-- <details>
+<details>
 <summary>Audio</summary>
 
 - Audio classification with [Whisper](https://huggingface.co/openai/whisper-large-v3-turbo)
