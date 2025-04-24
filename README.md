@@ -16,6 +16,9 @@ Welcome to the **Awesome Generative AI** repository — a structured and profess
 - [📈 Generative AI & LLM APIs](./genai-apis.md)
 
 ---
+### 🤖 Transformers & Foundation Models
+
+- [📈 Generative AI & LLM APIs](./transformers.md)
 
 ## More detailed
 <details>
