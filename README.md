@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/awesome.png" alt="Awesome Generative AI Banner" />
+</p>
+
 ## 🔥 Awesome Generative AI Resources
 
 Welcome to the **Awesome Generative AI** repository — a structured and professional hub for state-of-the-art resources across Speech, Text, Image, and Multimodal AI. This page provides an overview and organized links to detailed pages.
