@@ -339,7 +339,105 @@
 <details>
 <summary>🖼️ Image Super-Resolution (click to expand)</summary>
 
-- Add Real-ESRGAN, SwinIR, and datasets...
+## 🗓️ 2015
+
+### [waifu2x](https://github.com/nagadomi/waifu2x)
+- 📄 Paper: [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/abs/1501.00092)
+
+---
+
+## 🗓️ 2016
+
+### [FSRCNN-pytorch](https://github.com/yjn870/FSRCNN-pytorch)
+- 📄 Paper: [Accelerating the Super-Resolution Convolutional Neural Network](https://arxiv.org/abs/1608.00367)
+
+### [pytorch-vdsr](https://github.com/twtygqyy/pytorch-vdsr)
+- 📄 Paper: [Accurate Image Super-Resolution Using Very Deep Convolutional Networks](http://cv.snu.ac.kr/research/VDSR/)
+
+---
+
+## 🗓️ 2017
+
+### [EDSR-PyTorch](https://github.com/sanghyun-son/EDSR-PyTorch)
+- 📄 Paper: [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://arxiv.org/abs/1707.02921)
+
+### [LapSRN](https://github.com/phoenix104104/LapSRN)
+- 📄 Paper: [Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution](https://arxiv.org/abs/1704.03915)
+
+### [SRGAN](https://github.com/tensorlayer/SRGAN)
+- 📄 Paper: [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
+
+---
+
+## 🗓️ 2018
+
+### [RCAN](https://github.com/yulunzhang/RCAN)
+- 📄 Paper: [Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/abs/1807.02758)
+
+### [RDN](https://github.com/yulunzhang/RDN)
+- 📄 Paper: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/abs/1802.08797)
+
+### [DBPN-Pytorch](https://github.com/alterzero/DBPN-Pytorch)
+- 📄 Paper: [Deep Back-Projection Networks for Super-Resolution](https://arxiv.org/abs/1803.02735)
+
+---
+
+## 🗓️ 2019
+
+### [BasicSR](https://github.com/XPixelGroup/BasicSR)
+- 📄 Paper: [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
+
+### [Anime4K](https://github.com/bloc97/Anime4K)
+- 📄 Paper: Not available
+
+---
+
+## 🗓️ 2020
+
+### [DRLN](https://github.com/yulunzhang/DRLN)
+- 📄 Paper: [Residual Dense Network for Image Super-Resolution](https://arxiv.org/abs/1802.08797)
+
+---
+
+## 🗓️ 2021
+
+### [GFPGAN](https://github.com/TencentARC/GFPGAN)
+- 📄 Paper: [GFPGAN: Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/abs/2101.04061)
+
+### [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- 📄 Paper: [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/abs/2107.10833)
+
+### [SwinIR](https://github.com/JingyunLiang/SwinIR)
+- 📄 Paper: [SwinIR: Image Restoration Using Swin Transformer](https://arxiv.org/abs/2108.10257)
+
+---
+
+## 🗓️ 2022
+
+### [ESRGAN](https://github.com/xinntao/ESRGAN)
+- 📄 Paper: [Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
+
+### [LIIF](https://github.com/yinboc/liif)
+- 📄 Paper: [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)
+
+---
+
+## 🗓️ 2023
+
+### [Omni-SR](https://github.com/Francis0625/Omni-SR)
+- 📄 Paper: [Omni Aggregation Networks for Lightweight Image Super-Resolution](https://arxiv.org/abs/2304.10244)
+
+### [ESRGCNN](https://github.com/hellloxiaotian/ESRGCNN)
+- 📄 Paper: [Image Super-resolution with An Enhanced Group Convolutional Neural Network](https://arxiv.org/abs/2205.14548)
+
+---
+
+## 🗓️ 2024
+
+### [SeeSR](https://github.com/cswry/SeeSR)
+- 📄 Paper: [SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution](https://arxiv.org/abs/2403.12345)
+
+---
 
 </details>
 
